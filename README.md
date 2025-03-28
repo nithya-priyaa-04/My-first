@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src=".jpg" alt="Your Profile Picture" class="photo.pdf">
+            <img src="photo.jpg" alt="Your Profile Picture" class="photo.pdf">
             <h1>S.PINKLY</h1>
             <p>BSC Computer Science</p>
         </div>
